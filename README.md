@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Schlumpf1
-- 👀 I’m interested to study 
-- 🌱 I’m currently learning webdesign
+- 👀 I’m studying
 <!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+
 
 
 <!---
