@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Schlumpf1
-- 👀 I’m studying at  the university Essen - Duisburg
+
 <!---
 
 
